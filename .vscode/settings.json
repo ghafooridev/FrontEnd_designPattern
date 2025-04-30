@@ -1,0 +1,69 @@
+{
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "window.zoomLevel": 1,
+  "git.openRepositoryInParentFolders": "always",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.syntaxProfiles": {},
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "aboutus",
+    "Aritcle",
+    "Aritcles",
+    "BONYAD",
+    "Chrono",
+    "contactus",
+    "coverflow",
+    "Danabon",
+    "destiminols",
+    "Detaile",
+    "Detailes",
+    "fanap",
+    "Ghfoori",
+    "Insta",
+    "journaling",
+    "latestwork",
+    "Likedin",
+    "Parens",
+    "Pinar",
+    "reactjs",
+    "sarmad",
+    "Scroller",
+    "Serach",
+    "Shineorder",
+    "Slama",
+    "Swiper",
+    "Tagtree",
+    "tailwindcss",
+    "tanstack",
+    "Testimoial",
+    "trivago",
+    "Whatsup",
+    "Yekan",
+    "اساتید",
+    "وینگ"
+  ],
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.words": [
+    "AGERANGE",
+    "articleslider",
+    "Homat",
+    "joinus",
+    "Onselected",
+    "questionpage",
+    "Tagtrees",
+    "whitex"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tabWidth": 2,
+  "printWidth": 100,
+  "endOfLine": "auto",
+  "arrowParens": "avoid",
+  "trailingComma": "es5",
+  "semi": true,
+  "useTabs": false,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "plugins": ["@trivago/prettier-plugin-sort-imports", "prettier-plugin-tailwindcss"],
+  "importOrder": [
+    "^@core/(.*)$",
+    "^@/app/(.*)$",
+    "^@/shared/(.*)$",
+    "^@/controllers/(.*)$",
+    "^@/components/(.*)$",
+    "^@/providers/(.*)$",
+    "^@/hooks/(.*)$",
+    "^@/contexts/(.*)$",
+    "^@/shared/services/(.*)$",
+    "^@/store/(.*)$",
+    "^@/lib/(.*)$",
+    "^@/icons/(.*)$",
+    "^@/types",
+    "^@/assets/(.*)$",
+    "^@/shared/styles/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
